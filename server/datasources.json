@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgresql": {
+    "host": "stampy.db.elephantsql.com",
+    "port": 5432,
+    "url": "postgres://cxqhgyjw:J6kbTZs2sRv0_joN9QvZAK82zGDxhyoy@stampy.db.elephantsql.com:5432/cxqhgyjw",
+    "database": "ms_stories",
+    "password": "J6kbTZs2sRv0_joN9QvZAK82zGDxhyoy",
+    "name": "postgresql",
+    "user": "cxqhgyjw",
+    "connector": "postgresql"
+  }
+}
